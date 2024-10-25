@@ -3,7 +3,7 @@ import linkedInIcon from "../assets/logoSVGs/linkedin-square-icon.svg";
 import gitHubIcon from "../assets/logoSVGs/github-icon.svg";
 
 import mailIcon from "../assets/logoSVGs/mail.svg";
-// import { HashLink } from "react-router-hash-link";
+
 
 const About = () => {
   return (
@@ -17,7 +17,7 @@ const About = () => {
             <img
               src={kshipraimg}
               loading="lazy"
-              alt="narendra image"
+              alt="image"
               className="relative top-8 h-full w-full scale-[1.15] object-cover"
             />
           </div>

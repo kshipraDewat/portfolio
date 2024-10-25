@@ -41,7 +41,7 @@ const Hero = () => {
         </a>
       </div>
       <div className="sm: absolute bottom-24 mt-32 max-sm:bottom-36 max-sm:mt-28">
-        <div className="w-[50px] animate-bounce max-sm:w-[36px]">
+        <div className="w-[50px] animate-bounce max-sm:w-[36px] ">
           <FaChevronDown/>
          
         </div>
