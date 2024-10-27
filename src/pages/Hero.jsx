@@ -1,9 +1,8 @@
-import projectIcon from "../assets/logoSVGs/programmer-computer-icon.svg";
 import { IoMdDownload } from "react-icons/io";
 import { FaChevronDown } from "react-icons/fa6";
 import { FaLaptopCode } from "react-icons/fa6";
 import { HashLink } from "react-router-hash-link";
-import pdf from '../assets/resume/resume.pdf';
+import pdf from '../assets/resume/Resume.pdf';
 
 
 const Hero = () => {
