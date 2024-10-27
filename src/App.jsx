@@ -1,5 +1,6 @@
 import Header from "./components/Header"
 import About from "./pages/About"
+import Experience from "./pages/Experience"
 import Footer from "./pages/Footer"
 import Hero from "./pages/Hero"
 import Skills from "./pages/Skills"
@@ -13,6 +14,7 @@ function App() {
     <Hero/>
     <About/>
     <Skills/>
+    <Experience/>
     <Footer/>
   </div>
   )
