@@ -2,7 +2,7 @@
   "SwiftEats": {
     "projectMetaData": {
       "projectId": "SwiftEats",
-      "mockupImg": "src/assets/project/swifteats.png",
+      "mockupImg": "public/project/swiftEats.png",
       "webColor": "bg-[#7F3E0A]/20",
       "name": "SwiftEats",
       "techStack": ["React", "MongoDB" , "Express.js" , "Node.js"],
@@ -15,7 +15,7 @@
   "Teerex": {
     "projectMetaData": {
       "projectId": "Teerex",
-      "mockupImg": "src/assets/project/teerex.png",
+      "mockupImg": "public/project/teerex.png",
       "webColor": "bg-[#8FE070]/25",
       "name": "Teerex",
       "techStack": ["React", "Tailwind CSS", "Typescript"],
@@ -27,7 +27,7 @@
   "Admin Dashboard": {
     "projectMetaData": {
       "projectId": "Admin Dashboard",
-      "mockupImg": "src/assets/project/AdminDashboard.png",
+      "mockupImg": "public/project/AdminDashboard.png",
       "webColor": "bg-[#f0f8ff]",
       "name": "Admin Dashboard",
       "techStack": ["React", "Tailwind CSS", "JavaScript"],
