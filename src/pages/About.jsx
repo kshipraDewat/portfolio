@@ -1,4 +1,4 @@
-import kshipraimg from "../assets/kshi/k.jpg"
+import kshipraimg from "../assets/kshi/img.jpg"
 import linkedInIcon from "../assets/logoSVGs/linkedin-square-icon.svg";
 import gitHubIcon from "../assets/logoSVGs/github-icon.svg";
 

@@ -15,7 +15,7 @@ const Experience = () => {
             role="React developer "
             duration="May, 2023 - Jul, 2023"
             answer={[
-              "lorem34"
+              ""
             ]}
           />
           <Accordion
@@ -24,7 +24,7 @@ const Experience = () => {
             role="Web developer"
             duration="May, 2022 - Aug, 2022"
             answer={[
-              "jdfnosjdov"
+              ""
             ]}
           />
           

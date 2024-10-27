@@ -1,0 +1,51 @@
+{
+  "SwiftEats": {
+    "projectMetaData": {
+      "projectId": "SwiftEats",
+      "mockupImg": "src/assets/project/swifteats.png",
+      "webColor": "bg-[#7F3E0A]/20",
+      "name": "SwiftEats",
+      "techStack": ["React", "MongoDB" , "Express.js" , "Node.js"],
+      "site": "https://swifteats-frontend.onrender.com",
+      "github": "https://github.com/kshipraDewat/SwiftEats",
+      "projectInfo": "SwiftEats is a full-stack MERN (MongoDB, Express, React, Node.js) project for a food delivery website. It features three main components: user-facing frontend, backend for API management, and an admin panel for managing orders, menus, and users. It includes essential functionalities like food browsing, cart management, and order placement. The app is deployed using Render, with separate URLs for the frontend, backend, and admin panel."
+    }
+    
+  },
+  "Teerex": {
+    "projectMetaData": {
+      "projectId": "Teerex",
+      "mockupImg": "src/assets/project/teerex.png",
+      "webColor": "bg-[#8FE070]/25",
+      "name": "Teerex",
+      "techStack": ["React", "Tailwind CSS", "Typescript"],
+      "site": "https://teerex-93dh.onrender.com",
+      "github": "https://github.com/kshipraDewat/TEEREX",
+      "projectInfo": "Teerex is a frontend e-commerce website built using React, TypeScript, and Tailwind CSS. The project is designed to allow users to browse and filter T-shirts based on criteria like size and category. It also includes a search functionality and a shopping cart for adding products. The project utilizes API calls to display product details dynamically and employs the Vite build tool for faster development and optimization. It showcases skills in frontend web development, UI design, and state management."
+    }
+  },
+  "Admin Dashboard": {
+    "projectMetaData": {
+      "projectId": "Admin Dashboard",
+      "mockupImg": "src/assets/project/AdminDashboard.png",
+      "webColor": "bg-[#f0f8ff]",
+      "name": "Admin Dashboard",
+      "techStack": ["React", "Tailwind CSS", "JavaScript"],
+      "site": "https://admindasboard.onrender.com",
+      "github": "https://github.com/kshipraDewat/AdminDasboard",
+      "projectInfo": "The Admin Dashboard is a frontend project for dynamic admin management tool built using React, Tailwind CSS, and JavaScript. It incorporates Recharts for data visualization and Framer Motion for smooth animations. The dashboard is designed to facilitate administrative tasks, such as managing users, viewing data analytics, and tracking performance metrics. It demonstrates proficiency in modern frontend frameworks and tools for building responsive, animated, and interactive interfaces"
+    }
+  },
+  "Food Recipe": {
+    "projectMetaData": {
+      "projectId": "Food Recipe",
+      "mockupImg": "./../../../assets/images/kd.png",
+      "webColor": "bg-[#F5F8FD]",
+      "name": "Food Recipe",
+      "techStack": ["React", "Tailwind CSS", "Javascript"],
+      "site": "https:",
+      "github": "https:",
+      "projectInfo": "As a freelancer, I took the project as a solo developer & designer. Utilizing React, I prioritized user-centric design, fostering seamless navigation and engaging interactions. The deployment on Netlify ensures a reliable foundation, offering a smooth journey for users exploring KDEvents."
+    }
+  }
+}
