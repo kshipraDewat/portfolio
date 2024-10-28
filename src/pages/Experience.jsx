@@ -12,19 +12,24 @@ const Experience = () => {
           <Accordion
             id="1"
             title="Element coders"
-            role="React developer "
+            type="Internship "
             duration="May, 2023 - Jul, 2023"
             answer={[
-              ""
+              "Role - React Developer",
+               "Built and optimized responsive user interfaces using React, enhancing user experience across multiple devices.",
+              " Implemented RESTful API integrations to dynamically fetch and display data, improving application interactivity and performance."
             ]}
           />
           <Accordion
             id="2"
             title="Urban Biotix"
-            role="Web developer"
+            type="Internship"
             duration="May, 2022 - Aug, 2022"
             answer={[
-              ""
+              "Role - Frontend Developer",
+              "Ensured cross-device compatibility by developing responsive layouts using HTML, CSS, and JavaScript frameworks.",
+              "Designed and implemented user-friendly, visually appealing web interfaces to improve user engagement and accessibility."
+             
             ]}
           />
           

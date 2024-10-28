@@ -13,12 +13,12 @@ const About = () => {
     >
       <div className=" flex gap-20 max-sm:flex-col max-sm:gap-12">
         <div className="w-[35%] flex-auto max-sm:w-full">
-          <div className=" h-[450px] overflow-hidden max-sm:h-[380px] ">
+          <div className=" h-[480px] overflow-hidden max-sm:h-[480px] ">
             <img
               src={kshipraimg}
               loading="lazy"
               alt="image"
-              className="relative top-8 h-full w-full scale-[1.15] object-cover"
+              className="relative h-full w-full  object-cover"
             />
           </div>
         </div>

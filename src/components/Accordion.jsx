@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react";
 
-const Accordion = ({ title, answer, role, duration }) => {
+const Accordion = ({ title, answer, type, duration }) => {
   // console.log(answer)
   const [accordionOpen, setAccordionOpen] = useState(false);
 
@@ -19,7 +19,7 @@ const Accordion = ({ title, answer, role, duration }) => {
           <span
             className={`px-3 text-gray-400 max-sm:p-1 ${accordionOpen && "!text-gray-600"}`}
           >
-            {role}
+            {type}
           </span>{" "}
           <span
             className={`border-r border-gray-500  ${accordionOpen && "!border-black"}`}

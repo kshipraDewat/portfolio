@@ -28,7 +28,6 @@ const ProjectCard = ({ projectMetaData, reverse, projectpath }) => {
     github,
     projectId,
     projectInfo,
-    secondProjectInfo,
     mockupImg,
     webColor,
   } = projectMetaData;
@@ -39,9 +38,9 @@ const ProjectCard = ({ projectMetaData, reverse, projectpath }) => {
         reverse && "flex-row-reverse"
       } max-sm:flex-col`}
     >
-      <div className=" relative flex-1 p-8 text-black max-sm:p-3 max-sm:text-sm">
+      <div className=" relative flex-1 p-10 text-black max-sm:p-5 max-sm:text-sm text-base ">
         <h1 className="pb-6 text-3xl max-sm:pb-3 max-sm:text-xl">{name} </h1>
-        <p className="pb-2 text-justify">{projectInfo}</p>
+        <p className="pb-2 text-justify ">{projectInfo}</p>
         <div className="flex flex-wrap gap-x-6 gap-y-3 ">
           {techStack.map((tech) => (
             <p key={tech} className={` bg-gray-200 px-2 py-0.5  text-black`}>
@@ -79,9 +78,9 @@ const ProjectCard = ({ projectMetaData, reverse, projectpath }) => {
       </div>
       {/* image column */}
       <div className="">
-        <div className="p-8">
+        <div className="px-8">
           <div
-            className={` h-[400px] w-[500px]  max-sm:h-[220px] max-sm:w-[290px] `}
+            className={` h-[400px] w-[500px]  max-sm:h-[300px] max-sm:w-[350px] `}
           >
             <div
               className={`h-full w-full  ${isZoomed ? "fixed left-0 top-0 z-[200] bg-gray-400 bg-opacity-50 backdrop-blur-[2px] backdrop-filter" : "static"}`}
@@ -91,7 +90,7 @@ const ProjectCard = ({ projectMetaData, reverse, projectpath }) => {
                 loading="lazy"
                 onClick={() => handleZoom()}
                 alt="mockup-img"
-                className={`h-full w-full  object-contain transition-all duration-200   ${isZoomed ? "sm:cursor-zoom-out " : "sm:cursor-zoom-in sm:hover:brightness-75"}`}
+                className={`h-full w-full  object-contain transition-all duration-200  ${isZoomed ? "sm:cursor-zoom-out " : "sm:cursor-zoom-in sm:hover:brightness-75"}`}
               />
             </div>
           </div>

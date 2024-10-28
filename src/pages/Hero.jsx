@@ -8,17 +8,17 @@ import pdf from '../assets/resume/Resume.pdf';
 const Hero = () => {
   
   return (
-    <div className="relative flex h-screen flex-col items-center  bg-white   pt-48 text-center  max-sm:pt-32 ">
+    <div className="relative flex h-screen flex-col items-center  bg-white  pt-36 lg:pt-60 text-center  max-sm:pt-42 ">
       <h1 className="px-48 font-inter text-4xl font-bold uppercase leading-[3rem] max-sm:px-6 max-sm:text-2xl ">
         Hello, I am KSHIPRA. I am a{" "}
         <span className="bg-black px-2 text-white max-sm:px-3">
-          Frontend Developer
-        </span>{" "}
-        I enjoy building sites & apps. Primarily
+          Frontend Developer <br />
+        </span>{" "} 
+        I enjoy building sites & apps.  Primarily
         focused on{" "}
         <span className="bg-black px-4 text-white max-sm:px-3">React.js</span>
       </h1>
-      <p className="px-52  pt-4 font-inter text-lg max-sm:px-12 max-sm:text-sm ">
+      <p className="px-  pt-4 font-inter text-lg max-sm:px-12 max-sm:text-sm ">
       Graduated from GWEC Ajmer, I focused more on my coding skills to establish a good career in React web development & further.
       </p>
       <div className="z-20 flex gap-10 pt-10 max-sm:flex-col max-sm:gap-6 max-sm:text-sm ">
