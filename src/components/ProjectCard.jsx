@@ -78,9 +78,9 @@ const ProjectCard = ({ projectMetaData, reverse, projectpath }) => {
       </div>
       {/* image column */}
       <div className="">
-        <div className="px-8">
+        <div className="p-8">
           <div
-            className={` h-[400px] w-[500px]  max-sm:h-[300px] max-sm:w-[350px] `}
+            className={` h-[400px] w-[500px]  max-sm:h-[220px] max-sm:w-[290px] `}
           >
             <div
               className={`h-full w-full  ${isZoomed ? "fixed left-0 top-0 z-[200] bg-gray-400 bg-opacity-50 backdrop-blur-[2px] backdrop-filter" : "static"}`}
