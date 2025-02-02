@@ -7,10 +7,22 @@ const Experience = () => {
         My Experience
       </h1>
       {/* accordion box */}
-      <div className="px-24  max-sm:px-0">
-        <div className="m-auto w-full  p-4 max-sm:p-0">
-          <Accordion
+      <div className="px-24 max-sm:px-0">
+        <div className="w-full p-4 m-auto max-sm:p-0">
+        <Accordion
             id="1"
+            title="Urban Biotix"
+            type="Fulltime"
+            duration="Jul, 2024 - Dec, 2024"
+            answer={[
+              "Role - Software Developer",
+              "Ensured cross-device compatibility by developing responsive layouts using HTML, CSS, and JavaScript frameworks.",
+              "Designed and implemented user-friendly, visually appealing web interfaces to improve user engagement and accessibility."
+             
+            ]}
+          />
+          <Accordion
+            id="2"
             title="Element coders"
             type="Internship "
             duration="May, 2023 - Jul, 2023"
@@ -21,7 +33,7 @@ const Experience = () => {
             ]}
           />
           <Accordion
-            id="2"
+            id="3"
             title="Urban Biotix"
             type="Internship"
             duration="May, 2022 - Aug, 2022"

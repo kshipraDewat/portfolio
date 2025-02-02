@@ -36,16 +36,16 @@
       "projectInfo": "The Admin Dashboard is a frontend project for dynamic admin management tool built using React, Tailwind CSS, and JavaScript. It incorporates Recharts for data visualization and Framer Motion for smooth animations. The dashboard is designed to facilitate administrative tasks, such as managing users, viewing data analytics, and tracking performance metrics. It demonstrates proficiency in modern frontend frameworks and tools for building responsive, animated, and interactive interfaces"
     }
   },
-  "Food Recipe": {
+  "ChatterBox": {
     "projectMetaData": {
-      "projectId": "Food Recipe",
-      "mockupImg": "./../../../assets/images/kd.png",
+      "projectId": "ChatterBox",
+      "mockupImg": "/project/Chatterbox.png",
       "webColor": "bg-[#F5F8FD]",
-      "name": "Food Recipe",
-      "techStack": ["React", "Tailwind CSS", "Javascript"],
-      "site": "https:",
-      "github": "https:",
-      "projectInfo": "As a freelancer, I took the project as a solo developer & designer. Utilizing React, I prioritized user-centric design, fostering seamless navigation and engaging interactions. The deployment on Netlify ensures a reliable foundation, offering a smooth journey for users exploring KDEvents."
+      "name": "ChatterBox",
+      "techStack": ["React", "Tailwind CSS", "Javascript","Socket.io", "Daisy Ui"],
+      "site": "https://chatterbox-pfp3.onrender.com",
+      "github": "https://github.com/kshipraDewat/ChatterBox",
+      "projectInfo": "hatterBox is a real-time chat web application that leverages React.js for a dynamic user interface, Tailwind CSS and DaisyUI for responsive and customizable design, JavaScript for core functionality, and Socket.IO for instant, bidirectional communication, providing users with a seamless and engaging messaging experience across various devices."
     }
   }
 }
