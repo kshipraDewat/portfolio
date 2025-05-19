@@ -58,7 +58,21 @@
       "techStack": ["React", "Tailwind CSS", "Javascript","Socket.io", "Daisy Ui"],
       "site": "https://chatterbox-pfp3.onrender.com",
       "github": "https://github.com/kshipraDewat/ChatterBox",
-      "projectInfo": "hatterBox is a real-time chat web application that leverages React.js for a dynamic user interface, Tailwind CSS and DaisyUI for responsive and customizable design, JavaScript for core functionality, and Socket.IO for instant, bidirectional communication, providing users with a seamless and engaging messaging experience across various devices."
+      "projectInfo": "ChatterBox is a real-time chat web application that leverages React.js for a dynamic user interface, Tailwind CSS and DaisyUI for responsive and customizable design, JavaScript for core functionality, and Socket.IO for instant, bidirectional communication, providing users with a seamless and engaging messaging experience across various devices."
+    }
+  },
+  "Bellavita": {
+    "projectMetaData": {
+      "projectId": "Bellavita",
+      "mockupImg": "/project/bellavita.png",
+      "webColor": "bg-[#F5F8FD]",
+      "name": "Bellavita",
+      "techStack": ["React", "Tailwind CSS", "Javascript","Context Api"],
+      "site": "https://magical-arithmetic-f4b254.netlify.app",
+      "github": "https://github.com/kshipraDewat/bellavita",
+      "projectInfo": "Developed a responsive e-commerce website clone inspired by Bellavita using React.js and Tailwind CSS, featuring product browsing and cart. Leveraged Context API for seamless state management. Designed an intuitive, user interface with reusable components for scalability and deployed via Netlify for optimized performance."
     }
   }
+
+
 }

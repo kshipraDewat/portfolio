@@ -7,6 +7,7 @@ const Project = () => {
     { websiteName: "SwiftEats", color: "bg-[#7F3E0A]/20" },
     { websiteName: "ChatterBox", color: "bg-[#f0f8ff]" },
     { websiteName: "Teerex", color: "bg-[#8FE070]/25" },
+    { websiteName: "Bellavita", color: "bg-[#8FE070]/25" },
     { websiteName: "Admin Dashboard", color: "bg-[#f0f8ff]" },
   ];
 
