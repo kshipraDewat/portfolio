@@ -11,6 +11,18 @@ const Experience = () => {
         <div className="w-full p-4 m-auto max-sm:p-0">
         <Accordion
             id="1"
+            title="Achilles Enterprise Pvt. Ltd."
+            type="Freelance"
+            duration="Jan, 205 - May, 2025"
+            answer={[
+              "Role - Frontend Developer",
+              "Developed a frontend of web application tailored to the client’s requirements, focusing on modern design and seamless user interactions.",
+              "Leveraged modern frameworks and libraries to streamline development and maintain clean, scalable code.",
+              "Engineered a responsive frontend with dynamic UI components to ensure optimal performance across devices and browsers."
+            ]}
+          />
+        <Accordion
+            id="2"
             title="Urban Biotix"
             type="Fulltime"
             duration="Jul, 2024 - Dec, 2024"
@@ -22,7 +34,7 @@ const Experience = () => {
             ]}
           />
           <Accordion
-            id="2"
+            id="3"
             title="Element coders"
             type="Internship "
             duration="May, 2023 - Jul, 2023"
@@ -33,7 +45,7 @@ const Experience = () => {
             ]}
           />
           <Accordion
-            id="3"
+            id="4"
             title="Urban Biotix"
             type="Internship"
             duration="May, 2022 - Aug, 2022"

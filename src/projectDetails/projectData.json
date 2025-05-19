@@ -1,4 +1,17 @@
 {
+  "Achilles": {
+    "projectMetaData": {
+      "projectId": "Achilles",
+      "mockupImg": "/project/Achilles.png",
+      "webColor": "bg-[#7F3E0A]/20",
+      "name": "Achilles",
+      "techStack": ["Next.js", "Tailwind CSS" , "Shadcn UI","Typescript" , "Rest Api"],
+      "site": "https://achilles-frontend.vercel.app/",
+      "github": "https://github.com/naren4488/achilles-frontend",
+      "projectInfo": "Achilles is my freelance work project , its a e-commerce website. It features three main components: user-facing frontend, backend for API management, and an admin panel for managing orders, products, and users. It includes essential functionalities like cart management, and order placement. The app is deployed using Vercel, with separate URLs for the frontend, and admin panel."
+    }
+    
+  },
   "SwiftEats": {
     "projectMetaData": {
       "projectId": "SwiftEats",

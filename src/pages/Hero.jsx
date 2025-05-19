@@ -2,7 +2,7 @@ import { IoMdDownload } from "react-icons/io";
 import { FaChevronDown } from "react-icons/fa6";
 import { FaLaptopCode } from "react-icons/fa6";
 import { HashLink } from "react-router-hash-link";
-import pdf from '../assets/resume/Resumeee.pdf';
+import pdf from '../assets/resume/Updated.pdf';
 
 
 const Hero = () => {
